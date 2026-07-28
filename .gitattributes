@@ -1,0 +1,2 @@
+*.wasm.br binary encoding=gzip
+*.js.br binary encoding=gzip
